@@ -1,0 +1,55 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>image/cat1.png</file>
+        <file>image/hi.png</file>
+        <file>image/button8.png</file>
+        <file>image/button5.png</file>
+        <file>image/button7.png</file>
+        <file>image/button3.png</file>
+        <file>image/button6.png</file>
+        <file>image/button2.png</file>
+        <file>image/button4.png</file>
+        <file>image/button1.png</file>
+        <file>intimacy.txt</file>
+        <file>image/cat1-1.png</file>
+        <file>chat_Img/chatframe1.png</file>
+        <file>chat_Img/chatframe2.png</file>
+        <file>chat_Img/chatframe3.png</file>
+        <file>chat_Img/chatframe3-1.png.png</file>
+        <file>chat_Img/refresh.png</file>
+        <file>feeding_Img/2.png</file>
+        <file>feeding_Img/apple.png</file>
+        <file>feeding_Img/bag.png</file>
+        <file>feeding_Img/cateatapple.gif</file>
+        <file>feeding_Img/cateatcatfood.gif</file>
+        <file>feeding_Img/cateatchicken.gif</file>
+        <file>feeding_Img/cateatfish.gif</file>
+        <file>feeding_Img/catfood.png</file>
+        <file>feeding_Img/cattoeat.png</file>
+        <file>feeding_Img/chicken.png</file>
+        <file>feeding_Img/chicken3.png</file>
+        <file>feeding_Img/close.jpg</file>
+        <file>feeding_Img/fish.png</file>
+        <file>feeding_Img/fish2.png</file>
+        <file>feeding_Img/furnace1.jpg</file>
+        <file>feeding_Img/furnace2.jpg</file>
+        <file>web_Img/courses.png</file>
+        <file>web_Img/netdisk.png</file>
+        <file>web_Img/PKU_logo.png</file>
+        <file>web_Img/treehole.png</file>
+        <file>feeding_Img/exit.png</file>
+        <file>image/calendar_background.png</file>
+        <file>image/cat2.png</file>
+        <file>image/cat2-2.png</file>
+        <file>image/cat3.png</file>
+        <file>image/cat3-3.png</file>
+        <file>image/choose_cat1.png</file>
+        <file>image/choose_cat2.png</file>
+        <file>image/choose_cat3.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>music/Bradley - Tom And Jerry.mp3</file>
+        <file>music/八木侑紀,佐伯伊織,井澤詩織 - Shiny Happy Days.mp3</file>
+        <file>music/FLuoRiTe - NYA!!!.mp3</file>
+    </qresource>
+</RCC>
